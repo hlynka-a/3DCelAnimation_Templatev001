@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\VisibleFrame.cs">
+    <Files>
+      <File FileName="Assets\VisibleFrame.cs" Line="97" Column="71" />
+      <File FileName="Assets\move.cs" Line="6" Column="15" />
+      <File FileName="Assets\RandomColor.cs" Line="6" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,7 @@
+Base path: D:/sd card materials/software/unity3d-5/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-32bit-1-1496
+Cmd: getPlatforms
+Unhandled exception: Readfile from pipe failed. GLE=The pipe has been ended.
+
+
+Quitting shader compiler process

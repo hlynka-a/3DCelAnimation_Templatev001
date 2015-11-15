@@ -1,0 +1,23 @@
+Base path: D:/sd card materials/software/unity3d-5/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-1496
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=4 type=0 insize=751 outsize=3776 kw=SHADOWS_DEPTH _ALPHATEST_ON pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=751 outsize=835 kw=SHADOWS_DEPTH _ALPHATEST_ON pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=982 outsize=3979 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _ALPHATEST_ON pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=982 outsize=10796 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _ALPHATEST_ON pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=938 outsize=4101 kw=DIRECTIONAL SHADOWS_OFF _ALPHATEST_ON pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=938 outsize=5718 kw=DIRECTIONAL SHADOWS_OFF _ALPHATEST_ON pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=982 outsize=4337 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _ALPHATEST_ON pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=982 outsize=11105 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _ALPHATEST_ON pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=818 outsize=778 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=818 outsize=510 kw= pd= ok=1
